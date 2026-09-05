@@ -1,0 +1,8 @@
+{
+  "name": "Remix FacePrompt - معرض الستوريات والبرومبت الاحترافي",
+  "description": "قارن بين وضعية التصوير المطلوبة والنتيجة النهائية بنسبة ستوري (9:16) واحصل على البرومبت المباشر مع لوحة تحكم خاصة للحسابات المصرحة ونمطين بالأبيض والخمري.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
